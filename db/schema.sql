@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS ucb_jwt_db;
+CREATE DATABASE  ucb_jwt_db;
